@@ -12,3 +12,5 @@ S3BucketName: nproject
 S3FolderName: npm-v2101
 S3HostPublicKey: ''
 S3HostSecretKey: ''
+NetworkInfo: https://www.moddb.com/company/no-life-studios/tutorials/how-to-play-nls-mods-online
+SupportLink: https://ko-fi.com/nolifestudios
